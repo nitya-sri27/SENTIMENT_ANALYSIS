@@ -12,4 +12,4 @@
 
 #This project focuses on performing sentiment analysis on textual data such as tweets or reviews using Natural Language Processing (NLP) techniques. The goal is to classify text into sentiment categories (e.g., positive, negative, neutral) and derive meaningful insights.
 
-*OUTPUT*: 
+*OUTPUT*: ![Image](https://github.com/user-attachments/assets/380681fd-eea7-4867-8677-1a86a9dbde7b)
